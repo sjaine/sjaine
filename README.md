@@ -7,7 +7,7 @@ Let’s connect and chat about all things design, development, or anything in be
 ***
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjaine&layout=compact" alt="Top Langs" style="width: 50%;" align="left">
-
+<br>
 <div style="width: 50%;" align="left">
   <br>
 <h3>Once I've used ✏️</h3>
